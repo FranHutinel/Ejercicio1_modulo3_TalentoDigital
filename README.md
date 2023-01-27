@@ -5,7 +5,7 @@ document.writeIn() situado dentro de un elemento <script>.
 
 Agrupación del proyecto:
 
-🚀La estructura de carpetas del proyecto es la siguiente...
+🚀La estructura de carpetas del proyecto es la siguiente:
 
 Carpeta assets. Esta contiene los directorios de img y js y css. Siendo EP1.html la raíz del proyecto.
 
